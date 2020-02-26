@@ -14,17 +14,12 @@ sidebar:
     # Sidebar links
     email: jovanasipka02@gmail.com
     phone: 0601499375
-    website: https://jovanasipka.github.io/online-cv/
-    linkedin: 
+    website: https://jovanasipka.github.io/online-cv/ 
     github: JovanaSipka
-    gitlab:
-    bitbucket:
-    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-languages:
+    languages:
       - idiom: Serbian
         level: Native
 
@@ -34,7 +29,7 @@ languages:
       - idiom: Slovenian
         level: Low
 
-interests:
+    interests:
       - item: Football
         link:
 
@@ -48,6 +43,7 @@ career-profile:
     title: Career Profile
     summary: |
       I finished elementary school "Nikola Tesla" in Lipar and high tehnical school "Mihajlo Pupin" in Kula.
+      
 education:
     - degree: Elektro-tehnicar racunara
       school: STŠ "Mihajlo Pupin" Kula
@@ -60,17 +56,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    
 experiences:
     - role: None yet.
       time: 
@@ -100,6 +86,13 @@ skills:
 
       - name: Sketch & Photoshop
         level: 0%
+
+
+
+
+
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
